@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/CustomerLoginPage.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Test1/src/CustomerLoginPage.java</locationURI>
+		</link>
+		<link>
+			<name>src/CustomerSignup.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Test1/src/CustomerSignup.java</locationURI>
+		</link>
+		<link>
+			<name>src/Mainscreen.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Test1/src/Mainscreen.java</locationURI>
+		</link>
+		<link>
+			<name>src/Managerscreen.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Test1/src/Managerscreen.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
